@@ -16,7 +16,7 @@ return {
         "terraformls",
         "tailwindcss",
         "tsserver",
-        "vuels",
+        "volar",
         "yamlls",
       })
     end,
